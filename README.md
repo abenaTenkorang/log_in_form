@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🧮 Math Magicans
+# log_In_Form
 
 In this project, I am using React to create a log in form with username and password.
 
@@ -41,7 +41,7 @@ In this project, I am using React to create a log in form with username and pass
 
 ### Key Features <a name="key-features"></a>
 
-- Fetch API data for quotes.
+- Use props 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
